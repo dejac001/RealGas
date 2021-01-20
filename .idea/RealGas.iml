@@ -6,7 +6,10 @@
       <excludeFolder url="file://$MODULE_DIR$/venv-docs" />
       <excludeFolder url="file://$MODULE_DIR$/venv-tests" />
     </content>
-    <orderEntry type="jdk" jdkName="GasThermo-tests" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.8 (RealGas)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="pytest" />
   </component>
 </module>

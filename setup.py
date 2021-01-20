@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="realgas",
-    version="1.1.0",
+    version="1.1.1",
     author="Robert F. De Jaco",
     author_email="dejac001@umn.edu",
     description="Simple integration of real-gas effects into modeling and simulation environments",
